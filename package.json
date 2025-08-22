@@ -40,7 +40,7 @@
   "homepage": "https://github.com/latitudegames/GPT-3-Encoder#readme",
   "devDependencies": {
     "browserify": "^17.0.0",
-    "jest": "^26.4.2",
+    "jest": "^30.0.5",
     "jsdoc": "^4.0.0"
   },
   "keywords": [
